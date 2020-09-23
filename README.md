@@ -1,2 +1,3 @@
-# Vishwassp-symbiot2020-trenetra-
-Project on python
+# symbiot2020-trenetra
+
+project was created in python with opencv 
