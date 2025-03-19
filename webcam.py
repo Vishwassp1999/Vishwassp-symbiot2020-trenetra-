@@ -38,7 +38,7 @@ def detect():
                 break
     
         except(KeyboardInterrupt):
-            print("Turning off camera.")
+            print("Turning  camera off.")
             webcam.release()
             cv2.destroyAllWindows()
             break
